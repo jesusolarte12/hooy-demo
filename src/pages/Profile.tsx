@@ -25,7 +25,7 @@ const Profile = () => {
           <div>
             <h2 className="font-semibold text-lg text-foreground">Juan Pérez</h2>
             <p className="text-sm text-muted-foreground">juan.perez@email.com</p>
-            <p className="text-sm text-muted-foreground">+57 300 123 4567</p>
+            <p className="text-sm text-muted-foreground">+57 311 7652435</p>
           </div>
         </div>
       </div>
